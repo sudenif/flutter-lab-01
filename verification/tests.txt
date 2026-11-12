@@ -1,0 +1,3 @@
+00:00 +0: loading C:/Users/user/AppData/Local/Lab2025/repositories/lab01/test/widget_test.dart
+00:00 +0: Hello World is shown on the initial screen
+00:00 +1: All tests passed!

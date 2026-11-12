@@ -1,0 +1,6 @@
+00:00 +0: loading C:/Users/user/AppData/Local/Lab2025/repositories/lab01/integration_test/app_test.dart
+Building Windows application...                                    41,5s
+√ Built build\windows\x64\runner\Debug\recipe_catalog.exe
+00:00 +0: Lab 1 initial application runs on Windows
+00:00 +1: (tearDownAll)
+00:00 +1: All tests passed!
